@@ -1,0 +1,4 @@
+[submodule "lecroy_ws3000"]
+	path = lecroy_ws3000
+	url = https://github.com/jeonghanlee/lecroy_ws3000
+	ignore = all

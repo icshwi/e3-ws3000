@@ -1,0 +1,12 @@
+USER : jhlee
+TIME : 2018Apr27-2358-52CEST
+>> 
+EPICS_MODULE_NAME  :                                                        ws3000
+E3_MODULE_SRC_PATH :                                                 lecroy_ws3000
+EPICS_MODULE_URL   :                                https://github.com/jeonghanlee
+E3_TARGET_URL      :                                     https://github.com/icshwi
+>> 
+e3 module name     :                                                     e3-ws3000
+e3 module url full :                  https://github.com/jeonghanlee/lecroy_ws3000
+e3 target url full :                           https://github.com/icshwi/e3-ws3000
+>> 
