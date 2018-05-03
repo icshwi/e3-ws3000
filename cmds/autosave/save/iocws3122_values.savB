@@ -1,0 +1,27 @@
+# autosave R5.3	Automatically generated - DO NOT MODIFY - 180503-104859
+usbtmc:icslab:ROSC.VAL 0
+usbtmc:icslab:PhaseInvert.VAL 0
+usbtmc:icslab:BurstGateNcyc.VAL 1
+usbtmc:icslab:BurstManualTrigger.VAL 0
+usbtmc:icslab:BurstPolarity.VAL 0
+usbtmc:icslab:BurstEdge.VAL 0
+usbtmc:icslab:ScreenSave.VAL 0
+usbtmc:icslab:BasicWaveTypeSelect.VAL 1
+usbtmc:icslab:BurstTriggerSrc.VAL 0
+usbtmc:icslab:BurstTriggerMode.VAL 0
+usbtmc:icslab:IocStats:ACCESS.VAL 0
+usbtmc:icslab:WaveFrequency.VAL 14
+usbtmc:icslab:WavePhase.VAL 0
+usbtmc:icslab:WaveWidth.VAL 0
+usbtmc:icslab:WaveRise.VAL 0
+usbtmc:icslab:WaveFall.VAL 0
+usbtmc:icslab:WaveDelay.VAL 0
+usbtmc:icslab:WaveSymmetry.VAL 0
+usbtmc:icslab:WaveStdDev.VAL 0.0005
+usbtmc:icslab:WaveMean.VAL 0
+usbtmc:icslab:WaveDutyCycle.VAL 0.1
+usbtmc:icslab:BurstPeriod.VAL 1
+usbtmc:icslab:BurstStartPhase.VAL 0
+usbtmc:icslab:BurstDelay.VAL 0
+usbtmc:icslab:BurstCycleTime.VAL 1
+<END>
